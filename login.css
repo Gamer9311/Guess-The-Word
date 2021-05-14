@@ -1,0 +1,20 @@
+body
+{
+    background: aquamarine;
+    text-align: center;
+}
+
+    .login1 , .login2
+    {
+        background: white;
+        padding: 10px;
+        float: none;
+        border-radius: 15px;
+    }
+
+
+#player1 , #player2
+{
+    display: inline-block;
+    margin-left: 20px;
+}
